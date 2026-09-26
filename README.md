@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Darien Perez 👋</h1>
-<p align="center">🖥️ Analyst Developer at TESI | IT Engineer ⌨️</p>
+<h1 align="center">Hi, I'm Darien Perez</h1>
+<p align="center">Software Developer</p>
 
 <div align="center">
   <a href="https://github.com/devonent"><img alt="GitHub Devonent" src="https://img.shields.io/github/followers/devonent?color=%23EEE&label=Follow&logo=github&style=flat-square"></a>
